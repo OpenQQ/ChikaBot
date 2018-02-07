@@ -1,10 +1,14 @@
 ChikaBot
 ========
 
-一个开源的QQ/OICQ机器人后端
+一个QQ机器人，可以仿SIF抽卡
 
->这个东西极大可能性跑不起来
->如果需要有限范围内的帮助请在Issues区提问
+> 如果需要有限限度的支持/返回Bug/建议新功能，请前往我们的群组反馈：  
+> [ChikaBot-QQ版本 QQ群](https://shang.qq.com/wpa/qunwpa?idkey=14995267b9ea52618e1850a6b621def7b9bcdbba38ebd976a7a63bd1e2e4acc3)
+> [ChikaBot-Tg版本 Telegram群](https://t.me/ChikaIMBot)  
+>  
+> Telegram版本正在开发，暂时不会开源
+> [更多](https://llquery.cn/bot)
 
 ## 功能列表
 1. 签到
