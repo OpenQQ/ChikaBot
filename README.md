@@ -4,7 +4,7 @@ ChikaBot
 一个QQ机器人，可以仿SIF抽卡
 
 > 如果需要有限限度的支持/返回Bug/建议新功能，请前往我们的群组反馈：  
-> [ChikaBot-QQ版本 QQ群](https://shang.qq.com/wpa/qunwpa?idkey=14995267b9ea52618e1850a6b621def7b9bcdbba38ebd976a7a63bd1e2e4acc3)
+> [ChikaBot-QQ版本 QQ群](https://shang.qq.com/wpa/qunwpa?idkey=14995267b9ea52618e1850a6b621def7b9bcdbba38ebd976a7a63bd1e2e4acc3)  
 > [ChikaBot-Tg版本 Telegram群](https://t.me/ChikaIMBot)  
 >  
 > Telegram版本正在开发，暂时不会开源
